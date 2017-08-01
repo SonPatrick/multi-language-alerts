@@ -46,7 +46,7 @@
     "invalid_image_dimension":"A dimensão da imagem não é suportada.",
     "invalid_file_format":"O formato do arquivo é inválido.",
     "invalid_file_size":"O tamanho do arquivo não é suportado.",
-    
+  
     "username_in_use":"Esse nome de usuário já está sendo utilizado.",
     "email_in_use":"Esse endereço de e-mail já está sendo utilizado.",
     "mobile_phone_in_use":"Esse número de telefone móvel já está sendo utilizado.",  
@@ -56,6 +56,10 @@
     "select_state":"Selecione um estado.",
     "select_gender":"Selecione o sexo.",
     
+    "search_country":"Buscar país.",
+    "search_city":"Buscar cidade.",
+    "search_state":"Buscar estado.",
+       
     "password_is_too_small":"A senha é muito pequena.",
     "password_is_too_long":"A senha é muito longa.",
     "password_is_too_weak":"A senha é muito fraca.",
