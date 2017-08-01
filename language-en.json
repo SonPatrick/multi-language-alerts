@@ -56,6 +56,10 @@
     "select_state":"Select a state.",
     "select_gender":"Select a gender.",
     
+    "search_country":"Search a country.",
+    "search_city":"Search a city.",
+    "search_state":"Search a state.",
+    
     "password_is_too_small":"Password too short.",
     "password_is_too_long":"Password too long.",
     "password_is_too_weak":"Password too weak.",
